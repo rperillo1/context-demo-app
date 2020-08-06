@@ -11,3 +11,4 @@ export function LanguageProvider(props) {
     </LanguageContext.Provider>
   );
 }
+
